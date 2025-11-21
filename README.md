@@ -4,7 +4,7 @@
 
 ---
 
-## 📸 Screenshots
+## 📸 Screenshot
 <img width="1313" height="835" alt="image" src="https://github.com/user-attachments/assets/a52cef26-1c96-4f48-9ca1-9210c586b459" />
 
 ---
