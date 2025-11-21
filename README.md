@@ -9,6 +9,21 @@
 
 ---
 
+## 🌍 Live Deployment
+**The TinyLink application is fully deployed and live on Vercel:**
+
+**👉 https://tiny-link-gamma.vercel.app/**
+
+You can use this link to:
+
+- Create short URLs
+- Test redirects
+- View stats pages
+- Validate API endpoints
+- Confirm health check
+
+---
+
 ## 🚀 Project Overview
 
  **TinyLink is a lightweight URL-shortening platform where users can:**
